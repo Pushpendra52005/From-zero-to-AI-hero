@@ -1,0 +1,608 @@
+
+
+# Part 1
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - DAY (FLASHBACK - 2022)
+
+*Pushpendra, surrounded by books and notes, intensely studies. His laptop shows lines of code.*
+
+PUSHPENDRA (V.O.)
+(Continuing from the flashback)
+Phir maine socha, coding seekhne ki koshish karte hain. Lekin har kadam pe doubts, fears... lagta tha bas ek step back le lunga aur wapas medical shop mein.
+
+*CUT TO:*
+
+INT. COACHING CENTER - DAY (FLASHBACK - 2022)
+
+*Pushpendra sits in a coaching center, amidst other students, listening to the instructor teach coding concepts.*
+
+INSTRUCTOR
+...and that's how you implement a basic neural network.
+
+PUSHPENDRA
+(raising his hand)
+Sir, ek question hai.
+
+INSTRUCTOR
+(smiling)
+Haan, Pushpendra?
+
+PUSHPENDRA
+(curious)
+Sir, AI kitna powerful ho sakta hai?
+
+INSTRUCTOR
+(impressed)
+Bilkul, Pushpendra. AI's potential is immense. It can transform industries, make our lives easier.
+
+*Pushpendra's eyes light up with excitement and curiosity.*
+
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - NIGHT (FLASHBACK - 2023)
+
+*Pushpendra works on his laptop, coding away. He takes a break, looks out the window, and smiles, reflecting on his progress.*
+
+PUSHPENDRA (V.O.)
+Ab 6 mahine ho gaye, aur maine ek basic AI model banaaya hai. Lekin abhi tak kuch achieve nahi kiya hai.
+
+*CUT TO:*
+
+INT. TECH CONFERENCE - DAY (FLASHBACK - 2023)
+
+*Pushpendra, amidst a crowd of tech enthusiasts, listens to a speaker.*
+
+SPEAKER
+...and the future of AI is not just about automation, but about augmentation.
+
+PUSHPENDRA
+(determined)
+Mujhe yeh sunte hi pata chala, mere paas ek idea hai.
+
+*He pulls out his phone and starts typing away.*
+
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - EARLY MORNING
+
+*Pushpendra is back in his room, typing away on his laptop. The screen light reflects on his face.*
+
+PUSHPENDRA
+(murmuring, determined)
+Yeh idea ko shape dene mein waqt lagega, lekin yeh sahi hai.
+
+*He looks up, a sense of purpose on his face. The camera zooms out as he continues typing, the city outside coming to life.*
+
+FADE TO:
+
+EXT. CITY STREET - DAY
+
+*People walk by, going about their daily business. The camera pans across the cityscape, showing the contrast between the old and the new.*
+
+PUSHPENDRA (V.O.)
+Main aaj ek hero nahi hoon, lekin kal ka hero main ban sakta hoon. Ek AI hero.
+
+*CUT TO:*
+
+INT. PUSHPENDRA'S ROOM - LATER
+
+*Pushpendra's laptop screen shows his AI project, a virtual assistant, coming to life.*
+
+PUSHPENDRA
+(proudly)
+Meet "Asha", the AI assistant that will change the world.
+
+*Asha, the AI, responds.*
+
+ASHA
+( virtual voice)
+Hello, Pushpendra. I'm ready to assist.
+
+PUSHPENDRA
+(smiling)
+Yeh hai meri shuruaat. Ek naya safar, jahan AI aur human ek saath kaam karenge.
+
+*The camera zooms out as Pushpendra looks at Asha, a sense of hope and excitement on his face.*
+
+FADE TO BLACK.
+
+FADE IN:
+
+EXT. CITY STREET - DAY (LATER)
+
+*People walk by, using Asha, the AI assistant, on their phones and devices. The camera pans across the cityscape, showing the impact of Pushpendra's creation.*
+
+PUSHPENDRA (V.O.)
+Aaj main ek AI hero hoon. Aur yeh sirf shuruaat hai.
+
+*The camera zooms out further, showing the city, as the soundtrack plays, symbolizing Pushpendra's journey from zero to AI hero.*
+
+FADE TO BLACK.
+
+THE END.
+
+# Part 2
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - DAY (FLASHBACK - 2022)
+
+*Pushpendra sits in front of his old desktop, eyes fixed on the screen as he watches a YouTube video on Python programming.*
+
+PUSHPENDRA (V.O.)
+Tabhi mujhe coding ka interest tha, par time nahi milta tha. Ab mujhe time mil gaya hai.
+
+*He starts typing on his laptop, attempting to write his first Python script. Frustration builds up as he encounters errors.*
+
+PUSHPENDRA
+(to himself)
+Kyu nahi ho raha hai? Itna tough kyu hai?
+
+*Just then, his phone rings. He picks it up.*
+
+PUSHPENDRA
+(answering)
+Haan, bhai?
+
+BROTHER (V.O.)
+Pushpa, kya kar rahe ho? Papa mama kehti hain ki tum phir se naukri dhundho.
+
+PUSHPENDRA
+(firmly)
+Nahi, bhai. Main coding seekh raha hun. Ye meri passion hai.
+
+BROTHER (V.O.)
+Theek hai, tumko support karte hain. Bas tum apne goals achieve karo.
+
+*Pushpendra's face lights up with determination.*
+
+PUSHPENDRA
+(to himself)
+Main yeh kar sakta hun.
+
+FADE TO:
+
+INT. ONLINE CLASSROOM - DAY (FLASHBACK - 2023)
+
+*Pushpendra attends an online class on Artificial Intelligence. The instructor explains concepts on the screen.*
+
+INSTRUCTOR
+Now, let's move on to machine learning. Who can tell me the difference between supervised and unsupervised learning?
+
+PUSHPENDRA
+(raising his hand)
+Sir, main bata sakta hun.
+
+INSTRUCTOR
+Okay, Pushpendra. Go ahead.
+
+PUSHPENDRA
+(confidently)
+Supervised learning is when the model is trained on labeled data, whereas unsupervised learning is when the model is trained on unlabeled data.
+
+INSTRUCTOR
+That's correct, Pushpendra. Well done.
+
+*The camera zooms out to show the instructor's words of encouragement on the screen, as Pushpendra smiles, feeling a sense of accomplishment.*
+
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - DAY (PRESENT)
+
+*Pushpendra's laptop screen displays a project he's working on - an AI chatbot. He types away, making adjustments to the code.*
+
+PUSHPENDRA
+(to himself)
+Abhi bas thoda aur... bas thoda aur.
+
+*Suddenly, the chatbot responds on the screen.*
+
+CHATBOT
+Hello, Pushpendra. How can I assist you?
+
+PUSHPENDRA
+(excited)
+Yes! Ye tou chal gaya!
+
+*Pushpendra jumps out of his chair, pumping his fist in the air. Tears of joy well up in his eyes.*
+
+PUSHPENDRA
+(laughing)
+Mujhe pata tha, main kar sakta hun. Coding jitni tough dikhti hai, asal mein utni hoti nahi hai.
+
+*The camera pans out to show Pushpendra's transformation - from a tired medical shop employee to a confident AI developer.*
+
+FADE TO:
+
+EXT. CITY STREET - DAY
+
+*Pushpendra walks out of his building, looking up at the sky. A sense of pride and fulfillment on his face.*
+
+PUSHPENDRA (V.O.)
+Ab main apne sapne ko pura kar raha hun. Main ek AI hero bana hun.
+
+FADE OUT.
+
+# Part 3
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - DAY (2022)
+
+*Pushpendra, surrounded by books and laptops, attends an online course. He takes notes fervently.*
+
+PUSHPENDRA (V.O.)
+Pehla kadam, coding seekhna. Shayad yeh meri zindagi badal de.
+
+*CUT TO:*
+
+INT. PUSHPENDRA'S ROOM - LATER (2022)
+
+*Pushpendra works tirelessly on his laptop. His room is a mess, with empty food packets and water bottles scattered everywhere. His phone rings.*
+
+PUSHPENDRA
+(exhausted)
+Haan, haan, main aa raha hoon.
+
+*CUT TO:*
+
+INT. COFFEE SHOP - DAY (2022)
+
+*Pushpendra meets his friend, RAHUL. Rahul looks concerned.*
+
+RAHUL
+Bhai, tu toh bilkul bhi thakta nahi hai. Kab se yeh coding kar raha hai?
+
+PUSHPENDRA
+(determined)
+Bas ek saal, Rahul. Ek saal mein main AI engineer ban jaunga.
+
+RAHUL
+(supportive)
+Main jaanta hoon, tu kar lega. Lekin thoda aaram bhi kar le.
+
+PUSHPENDRA
+(firm)
+Nahi, abhi nahi. Abhi toh bas coding.
+
+*CUT TO:*
+
+INT. PUSHPENDRA'S ROOM - NIGHT (2023)
+
+*Pushpendra types away on his laptop, a hint of excitement on his face.*
+
+PUSHPENDRA (V.O.)
+Ek saal hogaya, aur maine apna pehla AI project banaya.
+
+*CUT TO:*
+
+INT. TECH COMPANY - DAY (2023)
+
+*Pushpendra, dressed in formal attire, stands confidently in front of a whiteboard, explaining his AI project to a panel of interviewers.*
+
+PUSHPENDRA
+(confident)
+Sir, yeh AI model healthcare mein Revolution laa sakta hai.
+
+INTERVIEWER
+(impressed)
+Wow, this is impressive. We'd like to offer you a job.
+
+PUSHPENDRA
+(beaming)
+Thank you, sir.
+
+*CUT TO:*
+
+INT. PUSHPENDRA'S ROOM - EARLY MORNING (2024)
+
+*Pushpendra sits on his bed, laptop open, a sense of fulfillment on his face.*
+
+PUSHPENDRA
+(smiling)
+Yeh coding jitni tough dikhti hai, asal mein utni hoti nahi hai... yeh safar jitna tough dikhta hai, asal mein utna hi rewarding hota hai.
+
+*Screen fades to black as he types away, a new day beginning.*
+
+FADE OUT.
+
+# Part 4
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - DAY (2022)
+
+*Pushpendra excitedly opens his LAPTOP, researching online courses.*
+
+PUSHPENDRA
+(to himself)
+Abhi online courses available hain, coding ke liye. Shayad yeh mera chance hai.
+
+*He enrolls in a course and starts watching tutorials, taking notes.*
+
+CUT TO:
+
+INT. PUSHPENDRA'S ROOM - LATER (2022)
+
+*Pushpendra is stuck on a coding problem. He rubs his temples, frustrated.*
+
+PUSHPENDRA
+(to himself)
+Yeh coding jitni tough dikhti hai, asal mein utni hoti nahi hai... ya phir main hi kuch galat kar raha hoon?
+
+*He takes a break, walks to the window, and looks outside, thinking.*
+
+CUT TO:
+
+INT. PUSHPENDRA'S ROOM - NIGHT (2022)
+
+*Pushpendra is on a call with his MENTOR, Mr. Kumar.*
+
+MR. KUMAR
+(over the phone)
+Pushpendra, aapke code mein ek mistake hai. Aapko recursive function use karna hoga.
+
+PUSHPENDRA
+(grateful)
+Dhanyavad, sir. Aapka guidance bahut valuable hai.
+
+MR. KUMAR
+(encouragingly)
+Aap mehnat karte raho, Pushpendra. Aap zaroor safal honge.
+
+*Pushpendra nods, determined, and hangs up the phone.*
+
+CUT TO:
+
+INT. TECH COMPANY - DAY (2023)
+
+*Pushpendra, dressed in formal attire, walks into a tech company for a job interview.*
+
+INTERVIEWER
+(impressed)
+Pushpendra, your project on AI-powered healthcare is impressive. Can you explain how you overcame the challenges?
+
+PUSHPENDRA
+(confidently)
+Jee, sir. Humne machine learning algorithms use kiye aur humne apne code ko optimize kiya.
+
+*The interviewer nods, smiling.*
+
+CUT TO:
+
+INT. TECH COMPANY - LATER (2023)
+
+*Pushpendra is offered the job. He excitemently shakes hands with the interviewer.*
+
+INTERVIEWER
+(welcomingly)
+Welcome to our team, Pushpendra. We're looking forward to seeing your contributions.
+
+PUSHPENDRA
+(grateful)
+Dhanyavad, sir. Main aapka trust zaroor justify karunga.
+
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - EARLY MORNING (2024)
+
+*Pushpendra, now a successful AI engineer, sits in front of his laptop, reflecting on his journey.*
+
+PUSHPENDRA
+(to himself)
+Yeh safar shaandaar raha. Kabhi kabhi lagta tha ki yeh sab possible nahi hai... lekin mehnat aur dedication ne mujhe yahan pahunchaya.
+
+*He smiles, looking at his laptop screen, where his AI-powered healthcare project is displayed.*
+
+PUSHPENDRA (V.O.)
+Ab main AI hero ban gaya hoon... aur yeh sirf shuruaat hai.
+
+FADE OUT.
+
+# Part 5
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - DAY (2022)
+
+*Pushpendra sits in front of his old desktop, surrounded by piles of books and notes. He's on a call with a friend, VIJAY.*
+
+VIJAY
+(over the phone)
+Pushpa, tumhari salary bahut acchi thi. Yeh decision sahi hai?
+
+PUSHPENDRA
+(determined)
+Vijay, tum jaante ho Maine kyun resign kiya. Medical ki dukaan mein dimaag kaam nahi karta. Coding mein kuchh hai jo mujhe khinchti hai.
+
+VIJAY
+(supportive)
+Main samajh sakta hoon. Tumhare paas skills hai, Pushpa. Tumhe bas ek chance chahiye.
+
+PUSHPENDRA
+(grateful)
+Thanks, Vijay. Tumhare support ke bina yeh sab mushkil hota.
+
+*Vijay hangs up. Pushpendra starts typing on his desktop, opening coding tutorials and software development courses.*
+
+CUT TO:
+
+INT. PUSHPENDRA'S ROOM - NIGHT (2023)
+
+*Months have passed. Pushpendra's room is now filled with coding books, laptops, and screens. He's working on a project, typing furiously.*
+
+PUSHPENDRA
+(to himself)
+Yeh neural network ka concept samajh nahi aaya. 
+
+*He watches a video tutorial, scribbling notes. His eyes light up as understanding dawns.*
+
+PUSHPENDRA
+(excited)
+Arre waah! Ab samajh aaya!
+
+*He writes code, runs it, and watches as his program executes flawlessly. A smile spreads across his face.*
+
+CUT TO:
+
+INT. STARTUP OFFICE - DAY (2023)
+
+*Pushpendra, now dressed in formal attire, stands confidently in front of a whiteboard. He's explaining his AI project to a panel of investors.*
+
+PUSHPENDRA
+(confident)
+Sir, aap dekh sakte hai, yeh AI model kitna accurate hai. Humne isme machine learning aur deep learning ki techniques use ki hai.
+
+INVESTOR
+(impressed)
+Pushpendra, yeh project bahut impressive hai. Tumhari team ka kya size hai?
+
+PUSHPENDRA
+(smiling)
+Currently, hum sirf do log hai. Lekin humne bahut accha kaam kiya hai. Aap hume funding de, toh hum is project ko aur bhi aur bhi badha sakte hai.
+
+*Investors nod, taking notes. One of them extends a hand for a handshake.*
+
+INVESTOR
+(smiling)
+Welcome to our startup ecosystem, Pushpendra. We're looking forward to working with you.
+
+*Pushpendra shakes hands, beaming with pride.*
+
+CUT TO:
+
+INT. PUSHPENDRA'S ROOM - NIGHT (2023)
+
+*Pushpendra sits in front of his laptop, now a successful entrepreneur. He looks back at his journey, a mix of emotions on his face.*
+
+PUSHPENDRA
+(reflective)
+Jab humne medical ki dukaan chodi thi, tab humne socha tha ki hum kuchh nahi kar sakte. Lekin aaj hum AI hero hai. 
+
+*He smiles, looking at his laptop screen, where his AI project is running smoothly.*
+
+FADE TO BLACK.
+
+FADE IN:
+
+EXT. CITYSCAPE - NIGHT
+
+*The city lights up, a symbol of Pushpendra's bright future. The screen fades to black, with the words "From Zero to AI Hero" appearing on screen.*
+
+THE END.
+
+# Part 6
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - DAY (2022)
+
+*Pushpendra packs his bags, looking determined. His phone rings.*
+
+PUSHPENDRA
+(answering)
+Haan, mama?
+
+MOTHER (V.O.)
+Beta, papa ko pata chal gaya hai ki tu dukaan chhod raha hai. Woh bahut pareshan hain.
+
+PUSHPENDRA
+(calmly)
+Mama, maine soch samajh kar yeh faisla kiya hai. Mujhe coding seekhni hai.
+
+MOTHER (V.O.)
+Coding? Beta, yeh kya hai?
+
+PUSHPENDRA
+(smiling)
+Yeh ek skill hai, mama. Jisse main apne sapne poora kar sakta hoon.
+
+MOTHER (V.O.)
+Theek hai, beta. Hum tumhare saath hain.
+
+*Pushpendra smiles, relief on his face.*
+
+FADE TO:
+
+INT. CODING CLASS - DAY (2022)
+
+*Pushpendra sits amidst other students, typing on his laptop. The instructor, MR. SHARMA, explains concepts on a whiteboard.*
+
+MR. SHARMA
+Coding is like solving puzzles. You need patience, persistence, and practice.
+
+PUSHPENDRA
+(determined)
+I'm ready to put in the effort, sir.
+
+MR. SHARMA
+(smiling)
+That's the right attitude, Pushpendra.
+
+*Pushpendra types furiously, eyes fixed on the screen.*
+
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - NIGHT (2023)
+
+*Pushpendra sits in front of his laptop, eyes bloodshot from lack of sleep. He types, deletes, and types again.*
+
+PUSHPENDRA
+(frustrated)
+Kyun nahi ho raha hai? Main toh sahi kar raha hoon.
+
+*Suddenly, the code compiles. Pushpendra's face lights up.*
+
+PUSHPENDRA
+(excited)
+Yes! I did it!
+
+*He pumps his fist in the air, a huge grin on his face.*
+
+FADE TO:
+
+INT. TECH COMPANY - DAY (2023)
+
+*Pushpendra, dressed in a crisp suit, walks into a conference room. A panel of interviewers looks up at him.*
+
+INTERVIEWER 1
+So, Pushpendra, tell us about your project.
+
+PUSHPENDRA
+(confidently)
+I created an AI-powered chatbot that helps patients with medical queries.
+
+INTERVIEWER 2
+Impressive. How did you come up with this idea?
+
+PUSHPENDRA
+(smiling)
+My experience working in a medical shop inspired me to create something that could make a difference in people's lives.
+
+*The interviewers nod, impressed.*
+
+FADE TO:
+
+INT. TECH COMPANY - DAY (2023)
+
+*Pushpendra, now a full-time employee, sits in front of his computer, typing away. His phone rings.*
+
+PUSHPENDRA
+(answering)
+Haan, mama?
+
+MOTHER (V.O.)
+Beta, papa ko pata chal gaya hai ki tu ek successful AI developer ban gaya hai. Woh bahut khush hain.
+
+PUSHPENDRA
+(tearfully)
+Mama, main yahan pahunch gaya hoon.
+
+MOTHER (V.O.)
+Hum tumhare saath hain, beta. Humein tum par garv hai.
+
+*Pushpendra smiles, feeling a sense of accomplishment and pride.*
+
+FADE TO:
+
+INT. PUSHPENDRA'S ROOM - EARLY MORNING (PRESENT)
+
+*Pushpendra types on his laptop, a sense of purpose in his eyes. The alarm clock buzzer fades into the background as he continues to code, lost in his world of AI and innovation.*
+
+FADE OUT.
